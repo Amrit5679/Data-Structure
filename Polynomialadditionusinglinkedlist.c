@@ -1,6 +1,5 @@
  /*To add two polynomials by using linked list.Represent each of the
-polynomial with a linked list. The resultant polynomial should also be stored in a linked list
-Name-Amrit Mishra Sec-I1_21 Sic-20bcse22 Date-04/07/2021*/
+polynomial with a linked list. The resultant polynomial should also be stored in a linked list*/
 #include<stdio.h>
 #include<stdlib.h>
 struct node
