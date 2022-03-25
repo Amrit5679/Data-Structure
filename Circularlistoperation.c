@@ -1,5 +1,4 @@
-/*Menu driven program to perform operations on circular linked list
-Name-Amrit Mishra Sec-I1_21 Sic-20BCSE22 Date-21/06/2021*/
+/*Menu driven program to perform operations on circular linked list*/
 #include<stdio.h>
 #include<stdlib.h>
 struct node
