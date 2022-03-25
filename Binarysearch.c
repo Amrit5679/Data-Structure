@@ -1,5 +1,4 @@
-/*To search for elements in an array by using binary search
-Name-Amrit Mishra Sec-I1,Roll-21 Branch-Cse SIC-20bcse22*/
+/*To search for elements in an array by using binary search*/
 #include<stdio.h>
 int binarysearch(int [],int,int);
 main()
