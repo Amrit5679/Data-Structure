@@ -1,5 +1,4 @@
 /*To implement stack by using Linked List
-Name-Amrit Mishra Sec-I1_21 Sic-20BCSE22 Date-1/7/2021*/
 #include<stdio.h>
 #include<stdbool.h>
 struct node
